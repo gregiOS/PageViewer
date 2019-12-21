@@ -15,7 +15,7 @@
 		B24B388523A035100039A068 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B24B388323A035100039A068 /* LaunchScreen.storyboard */; };
 		B24B389023A035100039A068 /* PageViewerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B24B388F23A035100039A068 /* PageViewerTests.swift */; };
 		B252F04D23AD2BC0002F855D /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B252F04C23AD2BC0002F855D /* PageView.swift */; };
-		B252F04F23AD2BE1002F855D /* DottedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B252F04E23AD2BE1002F855D /* DottedButton.swift */; };
+		B252F04F23AD2BE1002F855D /* CircleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B252F04E23AD2BE1002F855D /* CircleButton.swift */; };
 		B252F05123AD2BFF002F855D /* SwiperView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B252F05023AD2BFF002F855D /* SwiperView.swift */; };
 /* End PBXBuildFile section */
 
@@ -42,7 +42,7 @@
 		B24B388F23A035100039A068 /* PageViewerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewerTests.swift; sourceTree = "<group>"; };
 		B24B389123A035100039A068 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B252F04C23AD2BC0002F855D /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
-		B252F04E23AD2BE1002F855D /* DottedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DottedButton.swift; sourceTree = "<group>"; };
+		B252F04E23AD2BE1002F855D /* CircleButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleButton.swift; sourceTree = "<group>"; };
 		B252F05023AD2BFF002F855D /* SwiperView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiperView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -86,7 +86,7 @@
 			isa = PBXGroup;
 			children = (
 				B252F04C23AD2BC0002F855D /* PageView.swift */,
-				B252F04E23AD2BE1002F855D /* DottedButton.swift */,
+				B252F04E23AD2BE1002F855D /* CircleButton.swift */,
 				B252F05023AD2BFF002F855D /* SwiperView.swift */,
 				B24B387823A0350C0039A068 /* AppDelegate.swift */,
 				B24B387A23A0350C0039A068 /* SceneDelegate.swift */,
@@ -220,7 +220,7 @@
 				B24B387923A0350C0039A068 /* AppDelegate.swift in Sources */,
 				B252F04D23AD2BC0002F855D /* PageView.swift in Sources */,
 				B24B387B23A0350C0039A068 /* SceneDelegate.swift in Sources */,
-				B252F04F23AD2BE1002F855D /* DottedButton.swift in Sources */,
+				B252F04F23AD2BE1002F855D /* CircleButton.swift in Sources */,
 				B252F05123AD2BFF002F855D /* SwiperView.swift in Sources */,
 				B24B387D23A0350C0039A068 /* ContentView.swift in Sources */,
 			);

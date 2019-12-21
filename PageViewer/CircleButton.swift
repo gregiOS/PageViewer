@@ -1,5 +1,5 @@
 //
-//  DottedButton.swift
+//  CircleButton.swift
 //  PageViewer
 //
 //  Created by Grzegorz Przybyła on 20/12/2019.
@@ -8,7 +8,7 @@
 
 import SwiftUI
 
-struct DottedButton: View {
+struct CircleButton: View {
     @Binding var isSelected: Bool
     let action: () -> Void
     
